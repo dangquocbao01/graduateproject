@@ -1,4 +1,4 @@
-function Home() {
+function New() {
   return (
     <>
       <h1>Home Page</h1>

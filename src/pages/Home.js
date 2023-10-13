@@ -1,8 +1,8 @@
-function Home() {
+function News() {
   return (
     <>
-      <h1>Home Page</h1>
+      <h1>News Page</h1>
     </>
   );
 }
-export default Home;
+export default News;
